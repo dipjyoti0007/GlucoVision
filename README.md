@@ -1,6 +1,6 @@
 # 🌐 GlucoVision — Non-Invasive Blood Glucose Monitoring 💧📊
 
-> **Revolutionizing diabetes care** with a painless, tear-based optical glucose monitoring solution. No needles. Just vision. 👁️✨
+> **Revolutionizing diabetes care** with a painless, tear-based optical glucose monitoring solution. No needles. Just few tear drops. 👁️✨
 
 ---
 
@@ -41,7 +41,7 @@ It offers a **painless**, **real-time**, and **affordable** solution to track gl
 | 🧪 Reaction Cell        | Chamber for tear-glucose chemical reaction      |
 | 🖥️ Display Unit         | OLED / LCD screen for visual feedback           |
 | 🔋 Power Supply         | Battery powered                    |
-| 📡 WiFi/Bluetooth Module| For cloud integration with Consentium           |
+| 📡 WiFi/Bluetooth Module| For cloud integration with Consentium IoT       |
 
 ---
 
