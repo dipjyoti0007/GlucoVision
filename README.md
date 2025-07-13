@@ -56,7 +56,7 @@ It offers a **painless**, **real-time**, and **affordable** solution to track gl
 
 ## 🤝 Built With
 
-- 🧠 Python, C++ (Arduino IDE)  
+- 🧠 C/C++ (Arduino IDE)  
 - ⚙️ Embedded Systems & IoT  
 - ☁️ Consentium IoT Cloud  
 - 💡 Sensor and Biomedical R&D  
