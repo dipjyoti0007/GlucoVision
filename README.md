@@ -4,7 +4,7 @@
 
 > **Visit our site -> https://gvision-one.vercel.app/**
 > 
-> **Prototype Demo -> https://drive.google.com/file/d/1NT8LLWQEPptvoLmxK_BhW58Va_HkUWty/view?usp=drive_link**
+<!-- > **Prototype Demo -> https://drive.google.com/file/d/1NT8LLWQEPptvoLmxK_BhW58Va_HkUWty/view?usp=drive_link** -->
 ---
 
 ## 📌 Project Overview
