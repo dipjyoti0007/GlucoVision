@@ -34,6 +34,8 @@ It offers a **painless**, **real-time**, and **affordable** solution to track gl
 
 📏 **Sensor Calibration**  
 • Calibrated using **standard glucose solutions** for accuracy.
+
+
 ---
 
  **Prototype Demo -> https://drive.google.com/file/d/1NT8LLWQEPptvoLmxK_BhW58Va_HkUWty/view?usp=drive_link** >
