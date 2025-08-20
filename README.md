@@ -18,18 +18,18 @@ It offers a **painless**, **real-time**, and **affordable** solution to track gl
 ---
 ## 💡 Solution (How We Do It)
 
-**Bio-specimen**  
+- **Bio-specimen**  
 • Utilizes **tear fluid** — a naturally available, non-invasive medium.
 
-**Reaction Mechanism**  
+- **Reaction Mechanism**  
 • A **chemical reaction** takes place in a micro reaction cell using the tear sample.  
 • Over time, it produces a **colorless compound** indicating glucose concentration.
 
-**Optical Detection**  
+- **Optical Detection**  
 • An **optical transceiver** detects the **end-point** of the reaction.  
 • The **reaction time** is directly proportional to the **glucose concentration**.
 
-**Sensor Calibration**  
+- **Sensor Calibration**  
 • Calibrated using **standard glucose solutions** for accuracy.
 
 
