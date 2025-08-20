@@ -41,19 +41,19 @@ It offers a **painless**, **real-time**, and **affordable** solution to track gl
 
 ### 📊 Performance Evaluation
 
-**Repeatability** — Consistent readings across multiple trials  
-**Sensitivity** — Detects minute changes in glucose levels  
-**Accuracy** — Matches standard clinical devices  
-**Interference Resistance** — Immune to common ions in tear fluid
+- **Repeatability** — Consistent readings across multiple trials  
+- **Sensitivity** — Detects minute changes in glucose levels  
+- **Accuracy** — Matches standard clinical devices  
+- **Interference Resistance** — Immune to common ions in tear fluid
 
 ---
 
 ### 🔬 Validation & Results
 
-The system was **validated with real-time blood samples**, demonstrating:  
-**Clinically appropriate performance**  
-**Minimal error margins**  
-Ready for real-world use in **healthcare and personal monitoring**
+- The system was **validated with real-time blood samples**, demonstrating:  
+- **Clinically appropriate performance**  
+- **Minimal error margins**  
+- Ready for real-world use in **healthcare and personal monitoring**
 
 ---
 
@@ -62,11 +62,11 @@ Ready for real-world use in **healthcare and personal monitoring**
 
 ## 🌟 Unique Selling Point (USP)
 
-**Non-Invasive** — No needles, no blood!  
-**Tear-Based Measurement** — Optical sensors analyze tear fluid.  
-**Real-Time Monitoring** — Instant glucose level updates.  
-**Affordable & Accessible** — Built for low-resource settings.  
-**Cloud Connectivity** — Data upload to Consentium Inc. for remote tracking.  
+- **Non-Invasive** — No needles, no blood!  
+- **Tear-Based Measurement** — Optical sensors analyze tear fluid.  
+- **Real-Time Monitoring** — Instant glucose level updates.  
+- **Affordable & Accessible** — Built for low-resource settings.  
+- **Cloud Connectivity** — Data upload to Consentium Inc. for remote tracking.  
 
 ---
 
