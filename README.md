@@ -17,7 +17,6 @@ It offers a **painless**, **real-time**, and **affordable** solution to track gl
 
 ---
 ## 💡 Solution 
----
 
 ### 🧪 How We Do It
 
