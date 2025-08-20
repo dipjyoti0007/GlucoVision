@@ -16,9 +16,7 @@
 It offers a **painless**, **real-time**, and **affordable** solution to track glucose levels, especially benefiting **economically disadvantaged communities**. 🩺🌍
 
 ---
-## 💡 Solution 
-
-### 🧪 How We Do It
+## 💡 Solution (How We Do It)
 
 **Bio-specimen**  
 • Utilizes **tear fluid** — a naturally available, non-invasive medium.
@@ -37,7 +35,7 @@ It offers a **painless**, **real-time**, and **affordable** solution to track gl
 
 ---
 
- **Prototype Demo -> https://drive.google.com/file/d/1NT8LLWQEPptvoLmxK_BhW58Va_HkUWty/view?usp=drive_link** >
+ **Prototype Demo -> https://drive.google.com/file/d/1NT8LLWQEPptvoLmxK_BhW58Va_HkUWty/view?usp=drive_link** 
 
 ---
 
